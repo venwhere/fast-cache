@@ -5,6 +5,7 @@
 特色，亮点，便于推广
 
 ## 安装下载
+- 下载地址：https://github.com/venwhere/fast-cache/archive/v0.0.1.zip
 
 ## 快速使用
 简单接入的文件
